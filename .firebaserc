@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-ja-bootstrap-4": {
+      "hosting": {
+        "angular-ja-bootstrap4": [
+          "angular-ja-bootstrap-4"
+        ]
+      }
+    }
+  }
+}
